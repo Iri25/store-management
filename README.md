@@ -1,5 +1,5 @@
 # store-management
-C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data is saved in a txt file. Functionality tests were performed. The main class is Applications. Key concepts are polymorphism, storage in files.
+C++ application with a 4-layered architecture: data access layer (Domain), persistence layer (Repository), business layer (Service) and presentation layer (UserInterface). The data is saved in a txt file. Functionality tests were performed. The main class is Applications. Key concepts are encapsulation, inheritance, polymorphism, storage in files.
 
 Application for managing an online store. An online store has a list of products available, characterized by (unique) name, price and number of copies available. The application allows the purchase and return of products. The user can buy or return a certain number of products. 
 
