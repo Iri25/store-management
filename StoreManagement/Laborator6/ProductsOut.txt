@@ -1,0 +1,4 @@
+Dress 150  30
+Heat 10  3
+Jacket 150  45
+Jeans 60  10
