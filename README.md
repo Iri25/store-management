@@ -3,6 +3,8 @@ C++ application with a 4-layered architecture: data access layer (Domain), persi
 
 Key concepts are encapsulation, inheritance, polymorphism, reading from files and storage in files.
 
+## Requirements
+
 Application for managing an online store. An online store has a list of products available, characterized by (unique) name, price and number of copies available. The application allows the purchase and return of products. The user can buy or return a certain number of products. 
 
 When the user wants to purchase products, he can choose one more product and the desired quantity for each product. The transaction is considered to be carried out only if that all given products exist and have enough copies available, in which case the number of copies available in stock for each product will be updated and a success message will be displayed. Otherwise, an error message will be displayed in the form 'product X does not exist, [product Y does not have enough units available,...etc] (a list of errors for each product in the list given by user that could not be purchased and the reason for this). 
